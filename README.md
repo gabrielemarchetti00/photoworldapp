@@ -8,4 +8,4 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 ## Description
 
-Frontend for a full-stack photo gallery application. In this projects i learned how to use angular forms and routes.
+Frontend for a full-stack photo gallery application. In this projects i learned how to use angular components, forms and routes.
