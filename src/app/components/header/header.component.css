@@ -1,0 +1,18 @@
+.title {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.header {
+    background-color: #023047;
+    color: white;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+a {
+    color: white;
+    font-size: 20px;
+}

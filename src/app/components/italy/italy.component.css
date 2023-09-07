@@ -1,0 +1,83 @@
+.addbtn-div {
+    background-color: #8ecae6;
+}
+.home {
+    display: flex;
+    background-color: #8ecae6;
+    gap: 100px;
+    padding: 50px;
+}
+
+img {
+    height: 440px;
+}
+
+.updateform-popup, .addform-popup{
+    display: none;
+    position: absolute;
+    top: 60px;
+    left: 460px;
+    background-color: #023047;
+    color: white;
+    padding: 20px;
+}
+
+.addform-btns, .updateform-btns {
+    display: flex;
+    gap: 10px;
+}
+
+.add-form, .update-form{
+    display: table;
+    font-size: 20px;
+    border-spacing: 10px;
+}
+
+.form-group {
+    display: table-row;
+}
+
+input, label {
+    display: table-cell;
+}
+
+svg path:hover {
+    fill: #fb8500;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+svg path {
+    fill: #ffb703;
+    stroke: #fb8500;
+    stroke-width: 2px;
+}
+
+.photodiv {
+    display: flex;
+    gap: 5px;
+}
+
+.btns {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.photosdiv {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+button {
+    background-color: #219ebc;
+    border: none;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+}
+
+button:hover {
+    cursor: pointer;
+}
